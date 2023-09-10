@@ -11,7 +11,7 @@ Total time coding (since WakaTime initialized)
 ### Coding statistics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barakgoren&layout=compact&langs_count=30&exclude_repo=ML_learning&line_height=25)
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=barakgoren\&layout=compact)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
