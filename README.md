@@ -16,11 +16,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     1 hr 44 mins    ██████████▒░░░░░░░░░░░░░░   40.82 %
-C#             1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-HTML           25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-XML            20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Markdown       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JavaScript     3 hrs 46 mins   █████████████████▒░░░░░░░   69.97 %
+C#             1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+XML            20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+CSS            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
