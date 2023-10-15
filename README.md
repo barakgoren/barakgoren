@@ -16,11 +16,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       2 hrs 9 mins    ██████████████████████▓░░   90.79 %
-Python           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-CSS              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Java             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript       2 hrs 21 mins   █████████████████▓░░░░░░░   70.68 %
+CSS              33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
+HTML             14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Python           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+PHP              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
