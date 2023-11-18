@@ -16,7 +16,8 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             10 mins         █████████████████████▒░░░   84.84 %
+GitIgnore file   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
 ```
 
 <!--END_SECTION:waka-->
