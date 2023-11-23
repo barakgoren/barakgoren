@@ -16,11 +16,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-Java             58 mins         ███████████████████████▒░   93.76 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java             2 hrs 4 mins    ████████████████████████░   96.63 %
+JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
