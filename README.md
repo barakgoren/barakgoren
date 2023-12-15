@@ -16,9 +16,7 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-Java         1 hr 10 mins    █████████████████████▒░░░   85.44 %
-JSON         10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
