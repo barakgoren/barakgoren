@@ -16,7 +16,8 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   21 mins         ████████████████▒░░░░░░░░   65.61 %
+JSON   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 %
 ```
 
 <!--END_SECTION:waka-->
