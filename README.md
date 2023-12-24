@@ -16,8 +16,8 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-Java   21 mins         ████████████████▒░░░░░░░░   65.61 %
-JSON   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 %
+Java   31 mins         ███████████████▓░░░░░░░░░   63.05 %
+JSON   18 mins         █████████▒░░░░░░░░░░░░░░░   36.95 %
 ```
 
 <!--END_SECTION:waka-->
