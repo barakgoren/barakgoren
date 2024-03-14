@@ -16,7 +16,7 @@ Total time coding (since WakaTime initialized)
 TypeScript   2 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   28.90 %
 C            2 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.53 %
 JavaScript   1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-Markdown     1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Markdown     1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
 HTML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
