@@ -13,11 +13,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         4 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.73 %
-C            4 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.68 %
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-YAML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+C            4 hrs 34 mins   ████████████▓░░░░░░░░░░░░   51.30 %
+Dart         3 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.65 %
+Text         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
