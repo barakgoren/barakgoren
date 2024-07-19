@@ -13,11 +13,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       7 hrs 42 mins   ██████████████████░░░░░░░   72.51 %
-Java             1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-JavaScript       1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-CSS              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript       7 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.88 %
+JavaScript       2 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Java             1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Markdown         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+CSS              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
