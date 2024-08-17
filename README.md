@@ -13,11 +13,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 49 mins  ███████████████████░░░░░░   75.86 %
-Pawn         2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-CSS          42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Swift        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript   11 hrs 24 mins  ████████████████████▓░░░░   82.48 %
+Swift        1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Pawn         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
