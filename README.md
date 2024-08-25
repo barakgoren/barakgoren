@@ -13,11 +13,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 23 mins   ██████████████░░░░░░░░░░░   56.51 %
-Swift        2 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-JavaScript   2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript   6 hrs 34 mins   ██████████████████▒░░░░░░   72.77 %
+JavaScript   1 hr 59 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+C#           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
