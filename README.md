@@ -1,6 +1,7 @@
 ###  Hi, I’m Barak Goren👋
-- 👀 I’m interested in Software engineering.
-- 👨🏼‍🎓 Software Engineering student at Ariel Technical College
+- 👀 I’m interested in Software Engineering, Science, Robotics, etc.
+- 👨🏼‍🎓 Software Practical Engineering graduate @ Ariel Technical College
+- 📚 Computer Science student @ HIT - Holon Institute of Technology.
 - 📫 How to reach me barak.goren6@gmail.com
 ##
 Total time coding (since WakaTime initialized)
