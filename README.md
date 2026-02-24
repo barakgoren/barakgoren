@@ -1,7 +1,6 @@
 ###  Hi, I’m Barak Goren👋
 - 👀 I’m interested in Software Engineering, Science, Robotics, etc.
 - 👨🏼‍🎓 Software Practical Engineering graduate @ Ariel Technical College.
-- 📚 Computer Science student @ HIT - Holon Institute of Technology.
 - 👨🏻‍💻 Full Stack Developer @ Oversight Group.
 - 📫 How to reach me barak.goren6@gmail.com
 ##
