@@ -14,9 +14,7 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   30 mins               █████████████▓░░░░░░░░░░░   54.30 %
-Markdown     21 mins               █████████▓░░░░░░░░░░░░░░░   38.38 %
-Bash         4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
