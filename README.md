@@ -14,7 +14,8 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   14 mins               ██████████████████████▓░░   90.41 %
+JSON         1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:waka-->
