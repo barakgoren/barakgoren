@@ -14,11 +14,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 43 mins        █████████████████████▒░░░   85.30 %
-Other        50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-JSON         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Bash         29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JavaScript   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript   9 hrs 59 mins         ███████████████████▒░░░░░   76.72 %
+JSON         1 hr 21 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Bash         44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Other        29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JavaScript   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
