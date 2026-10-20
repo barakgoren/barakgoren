@@ -14,11 +14,11 @@ Total time coding (since WakaTime initialized)
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            9 hrs 9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-Markdown          6 hrs 36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-TypeScript        4 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Other             3 hrs 48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-JavaScript        2 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Kotlin            7 hrs 20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+Markdown          6 hrs 29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+TypeScript        5 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+JavaScript        3 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Other             3 hrs 8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
 ```
 
 <!--END_SECTION:waka-->
